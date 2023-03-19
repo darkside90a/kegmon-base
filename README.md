@@ -1,6 +1,11 @@
 # kegmon-base
 A different solution of mp-se's Kegmon scale base
 
+You find a complete description of his great Kegmon project here:
+
+https://github.com/mp-se/kegmon
+
+
 To make one base, I used:
 * 7mm Plywood, 22cm dia
 * 4x Feet, bottom: 309451-bot.stl
