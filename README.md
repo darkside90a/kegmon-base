@@ -20,7 +20,7 @@ To make one base, I used:
 * Cable ties
 
 The base feet are modified versions of Thingiverse thing #309451.
-The top part is made thicker and has space for a larger OD washer.
+The top part is made thicker and has space for a larger OD washer, which is fixed to the top part with a drop of glue.
 The lid is a variant of the original top, just with more outlets.
 
 The interconnection PCB under the center lid has been cut down to 40x40mm
@@ -29,7 +29,7 @@ This way, the lid "clicks" in place over the PCB.
 
 All parts are glued to the plywood base with strong foam tape.
 
-3D printed parts were made out of ABS, 100% infill
+3D printed parts were made out of ABS, 100% infill, support enabled.
 
 ![DSC_1664](https://user-images.githubusercontent.com/52971840/226113699-0609ebd8-5c12-4031-9236-070fe1dd0732.JPG)
 ![DSC_1674](https://user-images.githubusercontent.com/52971840/226113717-b9b7dac4-8ddb-487b-a846-093cbe245e45.JPG)
